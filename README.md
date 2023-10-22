@@ -9,11 +9,11 @@
 
 * __Technical Requirements__: Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue.  This control must leverage digital electronics.
 
-__Code__:
+* __Code__:
 
-__Associated video of how it works__: [_YouTube video here_]: https://youtube.com/shorts/eV0GxsFZj0g?feature=share
+* __Associated video of how it works__: [_YouTube video here_]: https://youtube.com/shorts/eV0GxsFZj0g?feature=share
 
-__Electronic scheme__:
+* __Electronic scheme__:
 
 ![controlling_RGB_with_potentiometers_hmk#1](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/79a0a355-0c8b-4573-a4f4-9993281ebd44)
 
