@@ -4,7 +4,7 @@
 * Each assignment in this repository comes with clear instructions for each homework assignment, implementation details, setup pictures, and associated videos.
 
 
-Homework #1: Controlling RGB LED with 3 potentiometers
+## Homework #1: Controlling RGB LED with 3 potentiometers
 
 * __Technical Requirements__: Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue.  This control must leverage digital electronics.
 
