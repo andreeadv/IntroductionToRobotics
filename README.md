@@ -11,7 +11,7 @@
 
 * __Code__:
 
-* __Associated video of how it works__: [_YouTube video here_]: https://youtube.com/shorts/eV0GxsFZj0g?feature=share
+* __Associated video of how it works__: [_YouTube video here_](https://youtube.com/shorts/eV0GxsFZj0g?feature=share)
 
 * __Electronic scheme__:
 
