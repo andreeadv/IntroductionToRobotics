@@ -3,8 +3,9 @@
 * This repository hosts the laboratory assignments for the __Introduction to Robotics__ course, taken during the third year at the __Faculty of Mathematics and Computer Science__, University of Bucharest.
 * Each assignment in this repository comes with clear instructions for each homework assignment, implementation details, setup pictures, and associated videos.
 
+# Homeworks
 
-## Homework #1: Controlling RGB LED with 3 potentiometers
+## __Homework #1: Controlling RGB LED with 3 potentiometers__
 
 * __Technical Requirements__: Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue.  This control must leverage digital electronics.
 
