@@ -8,7 +8,10 @@
   
 <summary>Homework #1: Controlling RGB LED with 3 potentiometers</summary>
 
-* __Technical Requirements__: Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue.  This control must leverage digital electronics.
+* __Technical Details__: Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue.  This control must leverage digital electronics. Components:
+** RGB LED (At least 1)
+** Potentiometers (At least 3)
+** Resistors and wires as needed
 
 * __Code__:
 
