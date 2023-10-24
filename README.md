@@ -14,7 +14,7 @@
       * Potentiometers (At least 3)
       * Resistors and wires as needed
 
-* __Code__:
+* __Code__: [_See my code here_](https://youtube.com/shorts/eV0GxsFZj0g?feature=share)
 
 * __Associated video of how it works__: [_YouTube video here_](https://youtube.com/shorts/eV0GxsFZj0g?feature=share)
 
