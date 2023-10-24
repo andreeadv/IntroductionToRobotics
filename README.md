@@ -6,8 +6,7 @@
 # Homeworks
 <details>
   
-
-## <summary>Homework #1: Controlling RGB LED with 3 potentiometers</summary>
+<summary>Homework #1: Controlling RGB LED with 3 potentiometers</summary>
 
 * __Technical Requirements__: Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue.  This control must leverage digital electronics.
 
@@ -18,5 +17,6 @@
 * __Electronic scheme__:
 
 ![controlling_RGB_with_potentiometers_hmk#1](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/79a0a355-0c8b-4573-a4f4-9993281ebd44)
+
 </details>
 
