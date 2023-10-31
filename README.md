@@ -6,7 +6,7 @@
 # Homeworks
 <details>
   
-<summary>Homework #2: Controlling RGB LED with 3 potentiometers</summary>
+<summary>## Homework #2: Controlling RGB LED with 3 potentiometers</summary>
 
 * __Technical Details__: Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue.  This control must leverage digital electronics.
   * Components:
@@ -26,7 +26,7 @@
 
 <details>
   
-<summary>Homework #3: Elevator simulator</summary>
+<summary> ## Homework #3: Elevator simulator</summary>
 
 __This assignment involves simulating a 3-floor elevator control system using LEDs, buttons, and a buzzer with Arduino.__
 
