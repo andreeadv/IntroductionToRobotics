@@ -33,8 +33,10 @@ __This assignment involves simulating a 3-floor elevator control system using LE
 * __Technical Details__: Each of the 3 LEDs should represent one of the 3 floors. The LED corresponding to the current floor should light up. Additionally,
 another LED should represent the elevator’s operational state. It should blink when the elevator is moving and remain static when stationary. Implement 3 buttons that represent the call buttons from the 3 floors. When pressed, the elevator should simulate movement towards the floor after a short interval (2-3 seconds).
 The buzzer should sound briefly during the following scenarios:
-– Elevator arriving at the desired floor (something resembling a ”cling”).
+<br>
+– Elevator arriving at the desired floor (something resembling a ”cling”).  
 – Elevator doors closing and movement.
+<br>
 If the elevator is already at the desired floor, pressing the button for that floor should have no effect. Otherwise, after a button press, the elevator should ”wait for the doors to close” and then ”move” to the corresponding floor. If the elevator is in movement, it should either do nothing or it should stack its decision (get to the first
 programmed floor, open the doors, wait, close them and then go to the next desired floor).
   * Components:
