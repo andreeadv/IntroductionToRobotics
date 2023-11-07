@@ -54,11 +54,11 @@ programmed floor, open the doors, wait, close them and then go to the next desir
 <details> 
    <summary><h2>Homework #4: 7 segment display drawing</h2></summary>
   
-* __General description__: The joystick should be used to control the position ofthe segment and ”draw” on the display.  The movement between segments should be natural, meaning they should jump from the current positiononly to neighbors, but without passing through ”walls”.
+* __General description__: The joystick should be used to control the position of the segment and ”draw” on the display.  The movement between segments should be natural, meaning they should jump from the current positiononly to neighbors, but without passing through ”walls”.
   * Components:
       * 1  7-segment  display
       * 1  joystick
-      * resistors  and  wires  (perlogic)
+      * resistors  and  wires  (per logic)
 
 * __Technical Details__: The  initial  position  should  be  on  the  DP.  The  current position always blinks (irrespective of the fact that the segment is on or off).  Use the joystick to move from one position to neighbors. Short pressing the button toggles the segment state  from  ON  to  OFF  or  from  OFF  to  ON.  Long  pressing  the  button resets the entire display by turning all the segments OFF and moving the current position to the decimal point.
     
