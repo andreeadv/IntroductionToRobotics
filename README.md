@@ -43,7 +43,7 @@ programmed floor, open the doors, wait, close them and then go to the next desir
       * Buzzer (1)
       * Resistors and wires as needed
 
-* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk3_elevator_simulator/hmk3_elevator_simulator.ino!)
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk3_elevator_simulator/hmk3_elevator_simulator.ino)
 
 * __Associated video of how it works__: [_YouTube video here_](https://youtube.com/shorts/-f7SUdCCzrI?si=qBz2WyXPWmIR6kdS)
 
