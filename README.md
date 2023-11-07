@@ -49,7 +49,14 @@ programmed floor, open the doors, wait, close them and then go to the next desir
 
 * __Electronic scheme__:![elevator simulator hmk#2](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/c5d236fe-11b8-473c-892d-f825cc0abc40)
 
+</details>
 
-*7segdr: (https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/7532369a-50f6-40d1-9de8-a260ad0b418d)
+<details> 
+   <summary>Homework #4: 7 segment display drawing</summary>
+* __Electronic scheme__:![7 seg drawing](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/7532369a-50f6-40d1-9de8-a260ad0b418d)
+
+</details>
+
+
 
 
