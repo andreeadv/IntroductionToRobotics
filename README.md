@@ -53,7 +53,12 @@ programmed floor, open the doors, wait, close them and then go to the next desir
 
 <details> 
    <summary>Homework #4: 7 segment display drawing</summary>
-* __Electronic scheme__:![7 seg drawing](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/7532369a-50f6-40d1-9de8-a260ad0b418d)
+
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk4_7_segment_display_drawing/hmk4_7_segment_display_drawing.ino)
+* __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/J3yzabjXu8U)
+* __Electronic scheme__:![hmk4_7_segment_display_drawing](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/7532369a-50f6-40d1-9de8-a260ad0b418d)
+
+
 
 </details>
 
