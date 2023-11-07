@@ -47,8 +47,9 @@ programmed floor, open the doors, wait, close them and then go to the next desir
 
 * __Associated video of how it works__: [_YouTube video here_](https://youtube.com/shorts/-f7SUdCCzrI?si=qBz2WyXPWmIR6kdS)
 
-* __Electronic scheme__:![elevator simulator hmk#2](hmk4_7_segment_display_drawing](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/7532369a-50f6-40d1-9de8-a260ad0b418d)
+* __Electronic scheme__:![elevator simulator hmk#2](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/c5d236fe-11b8-473c-892d-f825cc0abc40)
 
 
+*7segdr: (https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/7532369a-50f6-40d1-9de8-a260ad0b418d)
 
 
