@@ -52,8 +52,16 @@ programmed floor, open the doors, wait, close them and then go to the next desir
 </details>
 
 <details> 
-   <summary>Homework #4: 7 segment display drawing</summary>
+   <summary><h2>Homework #4: 7 segment display drawing</h2></summary>
+  
+* __General description__: The joystick should be used to control the position ofthe segment and ”draw” on the display.  The movement between segments should be natural, meaning they should jump from the current positiononly to neighbors, but without passing through ”walls”.
+  * Components:
+      * 1  7-segment  display
+      * 1  joystick
+      * resistors  and  wires  (perlogic)
 
+* __Technical Details__: The  initial  position  should  be  on  the  DP.  The  current position always blinks (irrespective of the fact that the segment is on or off).  Use the joystick to move from one position to neighbors. Short pressing the button toggles the segment state  from  ON  to  OFF  or  from  OFF  to  ON.  Long  pressing  the  button resets the entire display by turning all the segments OFF and moving the current position to the decimal point.
+    
 * __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk4_7_segment_display_drawing/hmk4_7_segment_display_drawing.ino)
 * __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/J3yzabjXu8U)
 * __Electronic scheme__:![hmk4_7_segment_display_drawing](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/7532369a-50f6-40d1-9de8-a260ad0b418d)
