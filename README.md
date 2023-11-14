@@ -71,5 +71,25 @@ programmed floor, open the doors, wait, close them and then go to the next desir
 </details>
 
 
+<details> 
+   <summary><h2>Homework #5: stopwatch timer </h2></summary>
+  
+* __General description__: 
+  * Components:
+      * 1  
+      * 1  
+      * resistors  and  wires  (per logic)
+
+* __Technical Details__: 
+    
+* __Code__:
+* __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/J3yzabjXu8U)
+* __Electronic scheme__:
+
+
+
+</details>
+
+
 
 
