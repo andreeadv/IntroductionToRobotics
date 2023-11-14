@@ -72,7 +72,7 @@ programmed floor, open the doors, wait, close them and then go to the next desir
 
 
 <details> 
-   <summary><h2>Homework #5: stopwatch timer </h2></summary>
+   <summary><h2>Homework #5: Stopwatch timer </h2></summary>
   
 * __General description__: The display will indicate "000.0". Initiating the timer is accomplished by pressing the Start button.
 While the timer is active, pressing the lap button will store the current timer value in memory (non-persistent). Up to 4 laps can be saved, with the fifth press overriding the first. Resetting the timer has no effect, and pausing the timer stops its progression.
@@ -83,7 +83,7 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
       * 3 buttons
       * resistors and wires (perlogic)
     
-* __Code__:
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk5_stopwatch_timer/hmk5_stopwatch_timer.ino)
 * __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/WxoeM28Ryb4?feature=share)
 * __Electronic scheme__: ![hmk#5_stopwatch_timer](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/f8ccf736-a16c-4dbf-b1cb-553fd2a6e56a)
 
