@@ -14,7 +14,7 @@
       * Potentiometers (At least 3)
       * Resistors and wires as needed
 
-* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk1_controlling_RGB_with_potentiometers.ino)
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk2_controlling_RGB_with_potentiometers/hmk2_controlling_RGB_with_potentiometers.ino)
 
 * __Associated video of how it works__: [_YouTube video here_](https://youtube.com/shorts/eV0GxsFZj0g?feature=share)
 
@@ -47,8 +47,49 @@ programmed floor, open the doors, wait, close them and then go to the next desir
 
 * __Associated video of how it works__: [_YouTube video here_](https://youtube.com/shorts/-f7SUdCCzrI?si=qBz2WyXPWmIR6kdS)
 
-* __Electronic scheme__:![elevator simulator hmk#2](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/ddb0e4e6-4e79-45bc-acbf-1f45904a0cc7)
+* __Electronic scheme__:![elevator simulator hmk#2](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/c5d236fe-11b8-473c-892d-f825cc0abc40)
+
+</details>
+
+<details> 
+   <summary><h2>Homework #4: 7 segment display drawing</h2></summary>
+  
+* __General description__: The joystick should be used to control the position of the segment and ”draw” on the display.  The movement between segments should be natural, meaning they should jump from the current positiononly to neighbors, but without passing through ”walls”.
+  * Components:
+      * 1  7-segment  display
+      * 1  joystick
+      * resistors  and  wires  (per logic)
+
+* __Technical Details__: The  initial  position  should  be  on  the  DP.  The  current position always blinks (irrespective of the fact that the segment is on or off).  Use the joystick to move from one position to neighbors. Short pressing the button toggles the segment state  from  ON  to  OFF  or  from  OFF  to  ON.  Long  pressing  the  button resets the entire display by turning all the segments OFF and moving the current position to the decimal point.
+    
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk4_7_segment_display_drawing/hmk4_7_segment_display_drawing.ino)
+* __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/J3yzabjXu8U)
+* __Electronic scheme__:![hmk4_7_segment_display_drawing](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/7532369a-50f6-40d1-9de8-a260ad0b418d)
 
 
 
 </details>
+
+
+<details> 
+   <summary><h2>Homework #5: stopwatch timer </h2></summary>
+  
+* __General description__: The display will indicate "000.0". Initiating the timer is accomplished by pressing the Start button.
+While the timer is active, pressing the lap button will store the current timer value in memory (non-persistent). Up to 4 laps can be saved, with the fifth press overriding the first. Resetting the timer has no effect, and pausing the timer stops its progression.
+In Pause Mode, the lap flag button becomes inactive. Pressing the reset button in this mode resets the timer to "000.0".
+After a reset, the flag buttons can be used to cycle through the saved lap times. Each press of the flag button navigates to the next saved lap. Continuous pressing cycles through the laps continuously. Resetting in this state clears all flags and resets the timer to "000.0".
+  * Components:
+      * 1 7-segment display
+      * 3 buttons
+      * resistors and wires (perlogic)
+    
+* __Code__:
+* __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/WxoeM28Ryb4?feature=share)
+* __Electronic scheme__: ![hmk#5_stopwatch_timer](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/f8ccf736-a16c-4dbf-b1cb-553fd2a6e56a)
+
+
+</details>
+
+
+
+
