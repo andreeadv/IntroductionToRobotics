@@ -91,5 +91,22 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 </details>
 
 
+<details> 
+   <summary><h2>Homework #6: Pseudo-Smart Environment Monitor and Logger </h2></summary>
+  
+* __General description__:
+  
+  * Components:
+      * Arduino Uno Board
+      * Ultrasonic Sensor(HC-SR04)
+      * Light-Depended Resistor
+      * RGB LED
+      * Resistors as needed 
+    
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk5_stopwatch_timer/hmk5_stopwatch_timer.ino)
+* __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/WxoeM28Ryb4?feature=share)
+* __Electronic scheme__: ![hmk#5_stopwatch_timer](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/f8ccf736-a16c-4dbf-b1cb-553fd2a6e56a)
 
+
+</details>
 
