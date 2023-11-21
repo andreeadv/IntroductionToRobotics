@@ -104,11 +104,12 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
       * Resistors as needed
    
 *__Menu structure__: Menu Structure:
+
 ->Sensor Settings
 1.1 Sensors Sampling Interval: Set sampling rate (1-10 seconds).
 1.2 Ultrasonic Alert Threshold: Define the threshold for ultrasonic sensor alerts.
 1.3 LDR Alert Threshold: Set the threshold for LDR sensor alerts.
-1.4 Back: Return to the main menu.
+1.4 Back: Return to the main menu.<br>
 ->Reset Logger Data
 2.1 Yes
 2.2 No
@@ -123,10 +124,11 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 4.3 Back: Return to the main menu.
     
 * __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk6_Pseudo_Smart_Environment_Monitor_and_Logger/hmk6_Pseudo_Smart_Environment_Monitor_and_Logger.ino)
-* __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/WxoeM28Ryb4?feature=share)
-* __Electronic scheme__: ![menu_sensors](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/edac5797-424a-4c43-bd03-c31f642d9215)
+* __video of how it works__: [_YouTube video here_](https://youtu.be/QiVJDpO03bA)
+* __Electronic scheme__: ![menu_sensors](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/70825269-9a07-419d-b5a8-f6c65058105f)
 
 
 </details>
+
 
 
