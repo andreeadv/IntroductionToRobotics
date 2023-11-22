@@ -106,7 +106,7 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 *__Menu structure__: Menu Structure:
 
 ->Sensor Settings<br>
-    1.1 Sensors Sampling Interval: Set sampling rate (1-10 seconds).<br>
+     &emsp; 1.1 Sensors Sampling Interval: Set sampling rate (1-10 seconds).<br>
     1.2 Ultrasonic Alert Threshold: Define the threshold for ultrasonic sensor alerts.<br>
     1.3 LDR Alert Threshold: Set the threshold for LDR sensor alerts.<br>
     1.4 Back: Return to the main menu.<br>
