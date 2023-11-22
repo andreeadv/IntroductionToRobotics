@@ -106,22 +106,22 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 * __Menu structure__:
  
 ->Sensor Settings<br>
-*Tabspace*1.1 Sensors Sampling Interval: Set sampling rate (1-10 seconds).<br>
-1.2 Ultrasonic Alert Threshold: Define the threshold for ultrasonic sensor alerts.<br>
-1.3 LDR Alert Threshold: Set the threshold for LDR sensor alerts.<br>
-1.4 Back: Return to the main menu.<br>
+*Tabspace* 1.1 Sensors Sampling Interval: Set sampling rate (1-10 seconds).<br>
+*Tabspace* 1.2 Ultrasonic Alert Threshold: Define the threshold for ultrasonic sensor alerts.<br>
+*Tabspace* 1.3 LDR Alert Threshold: Set the threshold for LDR sensor alerts.<br>
+*Tabspace* 1.4 Back: Return to the main menu.<br>
 ->Reset Logger Data<br>
-2.1 Yes<br>
-2.2 No<br>
+*Tabspace* 2.1 Yes<br>
+*Tabspace* 2.2 No<br>
 ->System Status<br>
-*Tabspace*3.1 Current Sensor Readings: Continuously display sensor readings at the set sampling rate.<br>
-*Tabspace*3.2 Current Sensor Settings: Display sampling rate and threshold values for all sensors.<br>
-*Tabspace*3.3 Display Logged Data: Show the last 10 sensor readings.<br>
-*Tabspace*3.4 Back: Return to the main menu.<br>
+*Tabspace* 3.1 Current Sensor Readings: Continuously display sensor readings at the set sampling rate.<br>
+*Tabspace* 3.2 Current Sensor Settings: Display sampling rate and threshold values for all sensors.<br>
+*Tabspace* 3.3 Display Logged Data: Show the last 10 sensor readings.<br>
+*Tabspace* 3.4 Back: Return to the main menu.<br>
 ->RGB LED Control<br>
-*Tabspace*4.1 Manual Color Control: Set RGB colors manually.<br>
-*Tabspace*4.2 LED: Toggle Automatic ON/OFF.<br>
-*Tabspace*4.3 Back: Return to the main menu.<br>
+*Tabspace* 4.1 Manual Color Control: Set RGB colors manually.<br>
+*Tabspace* 4.2 LED: Toggle Automatic ON/OFF.<br>
+*Tabspace* 4.3 Back: Return to the main menu.<br>
     
 * __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk6_Pseudo_Smart_Environment_Monitor_and_Logger/hmk6_Pseudo_Smart_Environment_Monitor_and_Logger.ino)
 * __video of how it works__: [_YouTube video here_](https://youtu.be/QiVJDpO03bA)
