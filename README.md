@@ -131,4 +131,32 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 </details>
 
 
+<details> 
+   <summary><h2>Homework #7: Mini 8x8 LED Matrix game </h2></summary>
+  
+* __General description__: The Matrix Game developed in the context of this assignment is inspired by the classic Bomberman style. This simple yet engaging game is designed for an 8x8 LED matrix. The game features three main elements:
+   * __Player__: represented by a blinking LED that moves across the matrix and blinks slowly, its movement is controled with a joystick.
+   * __Bombs__: represented by rapidly blinking LEDs, can be placed by the player to distroy walls
+   *__Walls__: static elements that do not blink and are generated randomly at the start of the game
+
+* __Game Objective__: Navigate the player through the matrix, strategically placing bombs to destroy walls. 
+  
+* Components:
+      * Arduino Uno Board
+      * Joystick
+      * 8x8 LED Matrix
+      * MAX7219
+      * Resistors and capacitors as needed
+      * Breadboard and connecting wires
+    
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk7_mini_8x8_LED_matrix_game/hmk7_mini_8x8_LED_matrix_game.ino)
+* __video of how it works__: [_YouTube video here_](https://youtu.be/i8Of2FZtmrk)
+* __Electronic scheme__: ![hmk7_mini_8x8_LED_matrix_game](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/01eca1ee-f5cd-4918-88cb-5dc73c4bd54b)
+
+
+
+
+
+
+</details>
 
