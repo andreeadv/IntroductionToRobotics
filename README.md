@@ -9,7 +9,7 @@
 <summary><h2>Homework #2: Controlling RGB LED with 3 potentiometers</h2> </summary>
 
 * __Technical Details__: Use a separate potentiometer for controlling each color of the RGB LED: Red, Green, and Blue.  This control must leverage digital electronics.
-  * Components:
+    * Components:
       * RGB LED (At least 1)
       * Potentiometers (At least 3)
       * Resistors and wires as needed
@@ -139,9 +139,9 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
    * __Bombs__: represented by rapidly blinking LEDs, can be placed by the player to distroy walls
    * __Walls__: static elements that do not blink and are generated randomly at the start of the game
 
-* __Game Objective__: Navigate the player through the matrix, strategically placing bombs to destroy walls. 
-  
-* Components:
+* __Game Objective__: Navigate the player through the matrix, strategically placing bombs to destroy walls.   
+
+  * Components:
       * Arduino Uno Board
       * Joystick
       * 8x8 LED Matrix
