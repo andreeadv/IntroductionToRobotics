@@ -94,19 +94,41 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 <details> 
    <summary><h2>Homework #6: Pseudo-Smart Environment Monitor and Logger </h2></summary>
   
-* __General description__:
+* __General description__: This Arduino-based project monitors environmental conditions using an Ultrasonic Sensor and an LDR (Light-Dependent Resistor). The system includes an RGB LED for visual alerts and offers various settings accessible through a user-friendly menu structure.
   
   * Components:
       * Arduino Uno Board
       * Ultrasonic Sensor(HC-SR04)
       * Light-Depended Resistor
       * RGB LED
-      * Resistors as needed 
+      * Resistors as needed
+   
+* __Menu structure__:
+ 
+->Sensor Settings<br>
+1.1 Sensors Sampling Interval: Set sampling rate (1-10 seconds).<br>
+1.2 Ultrasonic Alert Threshold: Define the threshold for ultrasonic sensor alerts.<br>
+1.3 LDR Alert Threshold: Set the threshold for LDR sensor alerts.<br>
+1.4 Back: Return to the main menu.<br>
+->Reset Logger Data<br>
+ 2.1 Yes<br>
+ 2.2 No<br>
+->System Status<br>
+3.1 Current Sensor Readings: Continuously display sensor readings at the set sampling rate.<br>
+ 3.2 Current Sensor Settings: Display sampling rate and threshold values for all sensors.<br>
+ 3.3 Display Logged Data: Show the last 10 sensor readings.<br>
+ 3.4 Back: Return to the main menu.<br>
+->RGB LED Control<br>
+4.1 Manual Color Control: Set RGB colors manually.<br>
+4.2 LED: Toggle Automatic ON/OFF.<br>
+4.3 Back: Return to the main menu.<br>
     
-* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk5_stopwatch_timer/hmk5_stopwatch_timer.ino)
-* __video of how it works__: [_YouTube video here_](https://youtube.com/shorts/WxoeM28Ryb4?feature=share)
-* __Electronic scheme__: ![hmk#5_stopwatch_timer](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/f8ccf736-a16c-4dbf-b1cb-553fd2a6e56a)
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk6_Pseudo_Smart_Environment_Monitor_and_Logger/hmk6_Pseudo_Smart_Environment_Monitor_and_Logger.ino)
+* __video of how it works__: [_YouTube video here_](https://youtu.be/QiVJDpO03bA)
+* __Electronic scheme__: ![menu_sensors](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/70825269-9a07-419d-b5a8-f6c65058105f)
 
 
 </details>
+
+
 
