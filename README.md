@@ -141,13 +141,7 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 
 * __Game Objective__: Navigate the player through the matrix, strategically placing bombs to destroy walls.   
 
-  * Components:
-      * Arduino Uno Board
-      * Joystick
-      * 8x8 LED Matrix
-      * MAX7219
-      * Resistors and capacitors as needed
-      * Breadboard and connecting wires
+* Components: Arduino Uno Board, Joystick, 8x8 LED Matrix, MAX7219, Resistors and capacitors as needed, Breadboard and connecting wires
     
 * __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk7_mini_8x8_LED_matrix_game/hmk7_mini_8x8_LED_matrix_game.ino)
 * __video of how it works__: [_YouTube video here_](https://youtu.be/i8Of2FZtmrk)
