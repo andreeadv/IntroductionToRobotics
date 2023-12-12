@@ -167,8 +167,8 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 * Components: Arduino Uno Board, Joystick, 8x8 LED Matrix, MAX7219, Resistors and capacitors as needed, Breadboard and connecting wires
     
 * __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk7_mini_8x8_LED_matrix_game/hmk7_mini_8x8_LED_matrix_game.ino)
-* __video of how it works__: [_YouTube video here_](https://youtu.be/i8Of2FZtmrk)
-* __Electronic scheme__: ![hmk8](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/6ee2e445-534f-43ad-a8ba-02f9ec9074c0)
+* __video of how it works__: [_YouTube video here_](https://youtu.be/cRe49VmRGrc)
+* __Electronic scheme__: ![hmk8](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/2008435d-a5b9-49fa-9600-9ea8b4629ce3)
 
 
 
