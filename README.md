@@ -159,14 +159,11 @@ After a reset, the flag buttons can be used to cycle through the saved lap times
 <details> 
    <summary><h2>Homework #8: Matrix Checkpoint </h2></summary>
   
-* __General description__: 
+* __General description__: Navigate through a user-friendly menu system that allows you to start the game and embark on a Bomberman adventure, adjust game settings, including LCD and matrix brightness controls, explore information about the game and its creators.
 
-
-* __Game Objective__: Navigate the player through the matrix, strategically placing bombs to destroy walls.   
-
-* Components: Arduino Uno Board, Joystick, 8x8 LED Matrix, MAX7219, Resistors and capacitors as needed, Breadboard and connecting wires
+* Components: Arduino Uno Board, Joystick, LCD, 8x8 LED Matrix, MAX7219, Resistors and capacitors as needed, Breadboard and connecting wires
     
-* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk7_mini_8x8_LED_matrix_game/hmk7_mini_8x8_LED_matrix_game.ino)
+* __Code__: [_See my code here_](https://github.com/andreeadv/IntroductionToRobotics/blob/main/hmk8_matrix_checkpoint/hmk8_matrix_checkpoint.ino)
 * __video of how it works__: [_YouTube video here_](https://youtu.be/cRe49VmRGrc)
 * __Electronic scheme__: ![hmk8](https://github.com/andreeadv/IntroductionToRobotics/assets/91892810/2008435d-a5b9-49fa-9600-9ea8b4629ce3)
 
